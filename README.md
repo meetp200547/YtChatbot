@@ -3,6 +3,11 @@
 
 YtChatbot is a Streamlit-based web application that allows users to interact with YouTube videos through natural language queries. By providing a YouTube URL, the application extracts the video's transcript and leverages Google's Gemini AI models to accurately answer questions based exclusively on the video's content.
 
+
+<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/ec66683b-1f9f-4917-a515-8bf81f2902af" />
+
+
+
 ## Project Architecture and Data Flow
 
 This project implements a Retrieval-Augmented Generation (RAG) architecture. The data flow follows these steps:
